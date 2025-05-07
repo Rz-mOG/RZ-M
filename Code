@@ -1,0 +1,2 @@
+document.querySelector('.toc-disabled.toc-section').removeAttribute('disabled');
+document.querySelector('.toc-disabled.toc-section').click();
